@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="number_of_calls_to_a_func.warrper.counter" />
+          <option value="str.__sub__" />
+          <option value="object.area" />
+          <option value="Cli.get_invoker.run_command" />
+          <option value="str.contains" />
+          <option value="str.sort" />
+          <option value="super.execute" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
